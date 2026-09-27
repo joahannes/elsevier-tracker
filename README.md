@@ -2,7 +2,7 @@
 
 Script em Python que monitora a página de acompanhamento de revisão por pares da Elsevier (**Author Hub Tracker**) e envia uma notificação push para o celular sempre que algo muda: status, número de revisões concluídas, convites aceitos, data da última atividade etc.
 
-![Página de status da revisão por pares](img/article.png)
+![Página de status da revisão por pares](img/peer-review-status.png)
 
 ## Como funciona
 
