@@ -125,7 +125,7 @@ O agendamento é mais robusto que o `--loop`, porque volta a funcionar sozinho d
 ## Estrutura do projeto
 
 ```
-monitor-elsevier/
+elsevier-tracker/
 ├── README.md
 ├── monitor_elsevier.py     # script principal
 ├── requirements.txt
